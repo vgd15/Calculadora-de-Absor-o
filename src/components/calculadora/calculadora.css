@@ -1,0 +1,44 @@
+label:nth-child(1){
+    display: flex;
+    align-items: baseline;
+}
+
+label:nth-child(1) p{
+    padding-right: 25px;
+}
+
+label p{
+    margin: 0;
+    padding-right: 15px;
+}
+
+form{
+    line-height: 12px;
+}
+
+input{
+    padding: 13px 5px;
+    box-shadow: 2px 2px 2px 5px #9fa1a3;
+    border: 1px solid;
+    text-align: end;
+}
+
+.calculadora-geral{
+    background-color:rgb(175, 175, 175);
+    border-radius: 30px;
+
+}
+
+.entrada-dados{
+    padding: 30px 50px;
+}
+
+.numeros .d-flex{
+ gap:10px;
+ margin-bottom:10px;
+}
+
+.col-4{
+    padding:13px 5px;
+    box-shadow: 1px 1px 8px #03142d;
+}
